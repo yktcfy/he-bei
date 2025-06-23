@@ -98,8 +98,6 @@ http://ipipip/rtp/239.254.201.10:5250
 http://ipipip/rtp/239.254.201.36:5325
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",定州综合
 http://ipipip/rtp/239.254.201.74:6251
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雄县综合
-http://ipipip/rtp/239.254.201.94:6254
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",涞源综合
 http://ipipip/rtp/239.254.200.213:5260
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",高碑店综合
@@ -130,5 +128,7 @@ http://ipipip/rtp/239.254.201.136:5363
 http://ipipip/rtp/239.254.200.170:5366
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",大厂融媒体中心
 http://ipipip/rtp/239.254.201.71:5310
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雄县综合
+http://ipipip/rtp/239.254.201.94:6254
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
 http://ipipip/rtp/239.254.201.184:6263
