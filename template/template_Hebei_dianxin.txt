@@ -132,3 +132,5 @@ http://ipipip/rtp/239.254.201.71:5310
 http://ipipip/rtp/239.254.201.94:6254
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
 http://ipipip/rtp/239.254.201.184:6263
+#EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://live.fanmingming.com/tv/卫生健康.png" group-title="卫视高清",卫生健康
+http://ipipip/rtp/239.254.200.37:7248
